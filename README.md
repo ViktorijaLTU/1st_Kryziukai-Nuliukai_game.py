@@ -6,7 +6,7 @@ Programos formą (matricą) sudaro 9 mygtukai, kuriuos kiekvienas žaidėjas pak
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/87667574/126394350-89c0fc4d-1776-48bd-9d68-2dfdd4fb84d2.png)
 
-**Žaidimo laimėtojas** - nugalėtoju skelbiamas tas, kuris pirmasis užpildo eilutę/stulpelį/įstrižainę paeiliui einančiais savo ženklais (X arba O), kurie pakaitomis žymi 3x3 žaidimo matricos langelius. Trumpai tariant, pirmasis, iš eilės surinkęs 3 taškus tampa šio žaidimo nugalėtoju. Jei visi 9 mygtukai pažymėti ir nugalėtojas neišaiškėjo - informacinis mygtukas informuos, jog žaidimas baigėsi lygiosiomis, tad iš naujo nustatykite lentą ir pradėkite nuo pradžių! SĖKMĖS :)  
+**Žaidimo laimėtojas** - nugalėtoju skelbiamas tas, kuris pirmasis užpildo eilutę/stulpelį/įstrižainę paeiliui einančiais savo ženklais (X arba O), kurie pakaitomis žymi 3x3 žaidimo matricos langelius. Trumpai tariant, pirmasis, iš eilės surinkęs 3 taškus tampa šio žaidimo nugalėtoju. Jei visi 9 mygtukai pažymėti ir nugalėtojas neaiškus - informacinis mygtukas informuos, jog žaidimas baigėsi lygiosiomis, tad iš naujo nustatykite lentą ir pradėkite nuo pradžių! SĖKMĖS :)  
 
 
 **GUI matrica**:
