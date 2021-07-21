@@ -1,11 +1,11 @@
 # 1st_Kryziukai-Nuliukai_game.py
-**Kryžiukai & Nuliukai** - tai loginis žaidimas, skirtas lavinti žaidėjų loginį, strateginį mąstymą bei atidumo įgūdžius.
-  Žaidimo laimėtojas - tas, kuris pirmasis užpildo eilutę/stulpelį/įstrižainę paeiliui einančiais savo ženklais (X arba O)(žr. Žaidimo LAIMĖTOJO užpildyti kampai. Viso galimi 8 variantai - 3 eilutes, 3 stulpeliai, 2 įstrižainės). Jei nei vienam žaidėjui nepavyksta užpildyti kampų (t.y surinkti serijos) - skelbiamos lygiosios. Nenusisekus lošimui - galima kartoti. 
-
-
+**Kryžiukai & Nuliukai** - tai klasikinis, loginis žaidimas, skirtas lavinti loginį, strateginį mąstymą bei atidumo įgūdžius.
+Žaidimas skirtas žaisti dviems žaidėjams (X ir O)
 
 ![Screenshot (65)](https://user-images.githubusercontent.com/87667574/126394350-89c0fc4d-1776-48bd-9d68-2dfdd4fb84d2.png)
 
+**Žaidimo laimėtojas** - tas, kuris pirmasis užpildo eilutę/stulpelį/įstrižainę paeiliui einančiais savo ženklais (X arba O), kurie pakaitomis žymi 3x3 žaidimo matricos langelius.
+Žaidėjas, kuriam pavyksta užpildyti tris žymes bent vienoje horizontalioje/vertikalioje/įstrižoje eilutėje (žr. Žaidimo LAIMĖTOJO užpildyti kampai. Viso galimi 8 variantai - 3 eilutes, 3 stulpeliai, 2 įstrižainės) - tampa šio žaidimo laimėtoju. Jei nei vienam žaidėjui nepavyksta užpildyti kampų (t.y surinkti serijos) - skelbiamos lygiosios. Nenusisekus lošimui - galima kartoti. 
 
 
 **GUI matrica**:
